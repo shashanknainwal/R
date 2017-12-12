@@ -1,0 +1,16 @@
+# For Loop
+## Example
+boroughs = c("Manhattan", "Bronx", "Brooklyn", "Queens", "Staten Island"), 
+            capital = FALSE)
+
+# Loop version 1
+
+for(p in nyc){
+  print(p)
+}
+
+
+# Loop version 2
+for(i in 1:length(nyc)){
+  print(nyc[[i]])
+}
