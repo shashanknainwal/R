@@ -1,4 +1,5 @@
 # For Loop
+
 ## Example
 boroughs = c("Manhattan", "Bronx", "Brooklyn", "Queens", "Staten Island"), 
             capital = FALSE)
