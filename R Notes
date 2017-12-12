@@ -14,3 +14,4 @@ for(p in nyc){
 for(i in 1:length(nyc)){
   print(nyc[[i]])
 }
+
